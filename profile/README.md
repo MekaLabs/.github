@@ -13,3 +13,9 @@ You can follow the adventure of Mekaverse on :
 | Twitter   | [@Mekaverse](https://twitter.com/mekaverse)           |
 | Instagram | [@Mekaverse](https://www.instagram.com/themekaverse/) |
 | OpenSea   | [@Mekaverse](https://opensea.io/MekaVerse)            |
+
+
+## Members👩‍💻👨‍💻
+
+- [Alex Mongeot](https://github.com/alex-mngt) - Fullstack engineer
+- [Thibault Walterspieler](https://github.com/ThibaultWalterspieler) - Fullstack engineer
